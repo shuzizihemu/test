@@ -1,2 +1,3 @@
 print('none')
-33
+for i in range(1,3):
+  print('github牛逼')
